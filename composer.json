@@ -19,7 +19,7 @@
         "digital-creative/nova-data-table": "^0.1.1",
         "digital-creative/nova-pill-filter":"*",
         "digital-creative/nova-range-input-filter": "0.1.5",
-        "digital-creative/value-widget": "dev-main",
+        "digital-creative/value-widget": "0.0.1",
         "digitalazgroup/nova-plain-text-field": "^0.0.4",
         "digital-creative/chartjs-widget": "dev-main",
         "dillingham/nova-attach-many": "^1.0",
