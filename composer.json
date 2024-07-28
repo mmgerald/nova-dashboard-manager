@@ -11,6 +11,24 @@
     ],
     "minimum-stability": "dev",
     "prefer-stable": true,
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/mmgerald/nova-dashboard.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/marispro/nova-inline-morph-to.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/marispro/nova-multiselect-filter.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/marispro/nova-tabs.git"
+        }
+    ],
     "require": {
         "php": ">=7.4.0",
         "davidpiesse/nova-toggle": "^0.0.8",
@@ -45,23 +63,5 @@
     },
     "config": {
         "sort-packages": true
-    },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/mmgerald/nova-dashboard.git"
-        },
-        {
-            "type": "vcs",
-            "url": "https://github.com/marispro/nova-inline-morph-to.git"
-        },
-        {
-            "type": "vcs",
-            "url": "https://github.com/marispro/nova-multiselect-filter.git"
-        },
-        {
-            "type": "vcs",
-            "url": "https://github.com/marispro/nova-tabs.git"
-        }
-    ]
+    }
 }
