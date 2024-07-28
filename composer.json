@@ -14,7 +14,7 @@
     "require": {
         "php": ">=7.4.0",
         "davidpiesse/nova-toggle": "^0.0.8",
-        "digital-creative/nova-dashboard": "v0.0.2",
+        "digital-creative/nova-dashboard": "dev-php-7.4",
         "marispro/nova-inline-morph-to": "*",
         "digital-creative/nova-data-table": "^0.1.1",
         "digital-creative/nova-pill-filter":"*",
